@@ -1,6 +1,4 @@
 <h1>Port. Marllon Pereira</h1>
-_____________________________________________________________________________________________________________________________________________________
-
 Esse repositório foi criado para o desenvolvimento do meu portfólio com objetivo de mostrar minhas habilidades como desenvolvidor front end.
 
 <a img="Images/">
